@@ -22,12 +22,12 @@ Funcion asteriscos_c <- cuadrado_asteriscos ( altura )
 	Definir asteriscos_c Como caracter
 	Definir a,j, i Como Entero
 	asteriscos_c <- "*"
-	Para a <- 1 Hasta altura Con Paso 1 Hacer
-		
-		Para j <- 1 Hasta i Con Paso 1 Hacer
+	Para a <- 1 Hasta altura-1 Con Paso 1 Hacer
+		asteriscos_c <- asteriscos_c + "*"
+		Para j <- 1 Hasta altura Con Paso 1 Hacer
 			
 			Escribir asteriscos_c
-			asteriscos_c <- asteriscos_c + "*"
+			
 			
 		Fin Para
 		
