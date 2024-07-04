@@ -6,8 +6,8 @@ Este repositorio se uso para empezar a reforzar mis habilidades mediante el uso 
 |--|--|
 | 1 | Instalación |
 | 2 | Primer ejercicio |
-| 2 | Segundo ejercicio |
-| 2 | Tercer ejercicio |
+| 3 | Segundo ejercicio |
+| 4 | Tercer ejercicio |
 
 
 ### Instalaciones 
