@@ -4,10 +4,10 @@ Este repositorio se uso para empezar a reforzar mis habilidades mediante el uso 
 ## Tabla de contenidos
 | Indice | Titulo  |
 |--|--|
-| 1 | Instalación |
-| 2 | Primer ejercicio |
-| 3 | Segundo ejercicio |
-| 4 | Tercer ejercicio |
+| 1 | [Instalación](#instalaciones) |
+| 2 | [Primer ejercicio](#primer-ejercicio) |
+| 3 | [Segundo ejercicio](#segundo-ejercicio) |
+| 4 | [Tercer ejercicio](#tercer-ejercicio) |
 
 
 ### Instalaciones 
