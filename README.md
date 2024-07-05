@@ -1,7 +1,7 @@
-# Primer reto - PSeInt 
+# Primer reto - PSeInt 🚀
 Este repositorio se uso para empezar a reforzar mis habilidades mediante el uso de PSeInt con un reto evualitivo que consistia en tres diferentes programas
 
-## Tabla de contenidos
+## Tabla de contenidos 📋
 | Indice | Titulo  |
 |--|--|
 | 1 | [Instalación](#instalaciones) |
@@ -10,7 +10,7 @@ Este repositorio se uso para empezar a reforzar mis habilidades mediante el uso 
 | 4 | [Tercer ejercicio](#tercer-ejercicio) |
 
 
-### Instalaciones 
+### Instalaciones 🛠️
 - Deberás descargar el el documento zip 
 - Tienes que extraerlo con la opción extraer aquí
 - Desplaza la carpeta generada a PSeInt (debes tener PSeInt instalado)
@@ -18,7 +18,7 @@ Este repositorio se uso para empezar a reforzar mis habilidades mediante el uso 
 > [!IMPORTANT]
 > Para el uso del programa debes tener en cuenta que estaba empezando en programación :)
 
-### Primer ejercicio 
+### Primer ejercicio ❶
 
 Instrucciones reto: 
 - Escriba un programa en Pseint que dados dos números indique si son primos gemelos.
@@ -30,7 +30,7 @@ Instrucciones reto:
 > [!WARNING]
 > Si no funciona del todo bien vuelva a intentarlo
 
-### Segundo ejercicio
+### Segundo ejercicio ❷
 
 Instrucciones reto:
 - Escriba un programa en Pseint que dados un valor para un lado y un tipo de figura.
@@ -40,7 +40,7 @@ Instrucciones reto:
 > [!WARNING]
 > Si no funciona el cuadrado es porque quedo mal 
 
-### Tercer ejercicio
+### Tercer ejercicio ❸
 
 Instrucciones reto:
 Desarrolla un programa en PSeInt que simule el funcionamiento de un cajero automático. El programa debe solicitar al usuario ingresar un valor que desea retirar y luego calcular la cantidad de billetes de cada denominación (10,000, 20,000, 50,000 y 100,000) necesarios para completar el retiro.
